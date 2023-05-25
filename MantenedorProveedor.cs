@@ -16,5 +16,60 @@ namespace ModelamientoDeSoftware
         {
             InitializeComponent();
         }
+        private void lbl_ruc(object sender, EventArgs e)
+        {
+
+        }
+        
+        private void txt_ruc(object sender, EventArgs e)
+        {
+
+        }
+        
+        private void lbl_nom(object sender, EventArgs e)
+        {
+
+        }
+        
+        private void txt_nom(object sender, EventArgs e)
+        {
+
+        }
+        
+        private void lbl_dir(object sender, EventArgs e)
+        {
+
+        }
+        
+        private void txt_dir(object sender, EventArgs e)
+        {
+
+        }
+        
+        private void lbl_num(object sender, EventArgs e)
+        {
+
+        }
+        
+        private void txt_num(object sender, EventArgs e)
+        {
+
+        }
+        
+        private void btn_registrar(object sender, EventArgs e)
+        {
+
+        }
+        
+        private void btn_buscar(object sender, EventArgs e)
+        {
+
+        }
+        
+        private void btn_eliminar(object sender, EventArgs e)
+        {
+
+        }
+        
     }
 }
